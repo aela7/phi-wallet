@@ -1,3 +1,4 @@
+"use client";
 import AnimateIn from "../ui/AnimateIn";
 
 const steps = [
